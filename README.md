@@ -50,6 +50,6 @@ Then open `index.html` in your browser.
 
 ## 📌 LIVE DEMO
 
-Check it out here: [text-to-speech-five-lyart.vercel.app] 
+Check it out here: [https://text-to-speech-five-lyart.vercel.app/] 
 
 ---
